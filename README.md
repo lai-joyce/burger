@@ -5,3 +5,7 @@ Full-stack application that lets you add new burgers to be eaten.  Every burger 
 ## Details
 
 Uses bootstrap framework so this app is mobile-responsive as well.
+
+![Alt text](/pictures/ScreenShot1.png?raw=true "Full Screen Size")
+
+![Alt text](/pictures/ScreenShot2.png?raw=true "Full Screen Size")
